@@ -1,5 +1,5 @@
 function SIM (t) {
-    alert("Amo te demais")
+    alert("❤ Amo te demais ❤")
 }
 
 function desvia(t) {
